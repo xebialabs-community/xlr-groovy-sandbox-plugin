@@ -1,4 +1,4 @@
-# xlr-groovy-sandbox-plugin
+# Digital.ai Release Groovy Sandbox Plugin
 
 [![License: MIT][xlr-groovy-sandbox-plugin-license-image]][xlr-groovy-sandbox-plugin-license-url]
 ![Github All Releases][xlr-groovy-sandbox-plugin-downloads-image]
