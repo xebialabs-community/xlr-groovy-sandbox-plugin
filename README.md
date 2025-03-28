@@ -53,4 +53,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 [xlr-groovy-sandbox-plugin-license-image]: https://img.shields.io/badge/License-MIT-yellow.svg
 [xlr-groovy-sandbox-plugin-license-url]: https://opensource.org/licenses/MIT
-[xlr-groovy-sandbox-plugin-downloads-image]: https://img.shields.io/github/downloads/xebialabs-community/xlr-groovy-sandbox-plugin/total.svg
+[xlr-groovy-sandbox-plugin-downloads-image]: https://img.shields.io/github/downloads/xebialabs-community/xlr-groovy-sandbox-plugin/total?label=Downloads
